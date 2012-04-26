@@ -1,7 +1,7 @@
 package AnyEvent::CallbackStack;
 
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 use utf8;
 use feature 'say';
@@ -211,6 +211,13 @@ L<http://cpanratings.perl.org/d/AnyEvent-CallbackStack>
 =item * Search CPAN
 
 L<http://search.cpan.org/dist/AnyEvent-CallbackStack/>
+
+=item * Launchpad
+
+L<https://launchpad.net/p5-anyevent-callbackstack>
+
+=item * GitHub
+L<https://github.com/BlueT/AnyEvent-CallbackStack>
 
 =back
 
